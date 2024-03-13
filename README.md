@@ -6,15 +6,15 @@ Overview
 The primary objective of this testing effort is to ensure that the TimeWise web application functions as expected according to the provided use cases outlined in the SRS document. This involves creating manual test cases for each use case and identifying and documenting any bugs or issues that are discovered during the testing process.
 
 Software Requirements
-1. Introduction
-1.1. Purpose
+Introduction
+Purpose
 The objective of this document is to provide a description of the TimeWise application (also referred to as The App). It will present an overview of the key functionalities.	
 
-1.2. Scope
+Scope
 This document includes high-level descriptions of the basic functionalities of The App, such as user registration, login, profile editing, task creation and management. It does not cover any special user (Administrator) functionalities.
 
 
-Functional Requirements 
+Functional Requirements:
 
 Use Case 1 (Landing Page)
 Users should be able to access the TimeWise app from its designated URL via the Internet, which should load the Landing Page. The page should display the "Optimize Your Time Now!" button, which directs to the Login/Register page. Optionally, the usershould be able to view the "10 Time Management Tips to Boost Your Productivity" video by clicking the provided link.
