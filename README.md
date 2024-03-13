@@ -44,10 +44,9 @@ Test Cases
 All test cases created for the TimeWise Web Application are documented in the 'Test Cases' directory of this repository. Each test case is designed to validate a specific functionality or use case described in the SRS document. --> [Test-Management-and-Bug-Tracker-Template-Aleksandar-Marinov.xlsx](https://github.com/Aleksmarinov/TimeWise-WebApp/files/14584485/Test-Management-and-Bug-Tracker-Template-Aleksandar-Marinov.xlsx)
 
 
-API Testing with Postman: TimeWise API:
+API Testing with Postman: TimeWise API: 
 
-This section provides information about the TimeWise Api endpoints and their functionalities. It serves as a guide to understand how to interact with the TimeWise API. --> 
-
+This section provides information about the TimeWise Api endpoints and their functionalities. It serves as a guide to understand how to interact with the TimeWise API. 
 
 
 Contact
